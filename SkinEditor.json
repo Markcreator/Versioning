@@ -1,1 +1,1 @@
-{"version":2.0,"changes":"Better previews, more speed, and Skin Packs are here!"}
+{"version":2.1,"changes":"Added support for MacOS (Metal)! Improved texture compute performance. Fixed some texture settings. Fixed errors with custom material shaders."}
