@@ -1,1 +1,1 @@
-{"version":1.0,"masks":[{"name":"Base","hash":"d41b4daa8ccf29f7c671b5a5e09569ea"},{"name":"Bottom","hash":"9a6a03669e45ec49d76fc79a25267299"},{"name":"Fluff","hash":"8b5a103f91036d011f2b7a39f437efde"},{"name":"Inner","hash":"03919500a9c9d13a26d0aef68bd693d3"}]}
+{"version":"1","masks":[{"name":"Base","hash":"d41b4daa8ccf29f7c671b5a5e09569ea"},{"name":"Fluff","hash":"8b5a103f91036d011f2b7a39f437efde"},{"name":"Inner","hash":"03919500a9c9d13a26d0aef68bd693d3"},{"name":"Bottom","hash":"9a6a03669e45ec49d76fc79a25267299"}]}
